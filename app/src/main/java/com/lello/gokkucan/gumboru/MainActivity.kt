@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         // Enable javascript
         webview.settings.javaScriptEnabled = true
 
-        webview.loadUrl("http://yunus.hacettepe.edu.tr/~goksucanerkoc/gumball-tic-tac-toe/")
+        webview.loadUrl("http://yunus.hacettepe.edu.tr/~goksucanerkoc/burc/")
 
     }
 }
